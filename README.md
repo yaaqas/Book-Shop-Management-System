@@ -9,7 +9,7 @@
 
 <h1>Destination</h1>
 <div align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;The Bookstore Management System is an application designed to manage bookstore operations. The goal of this application is to help bookstore owners manage their inventory, sales and customers more efficiently. Bookstore Management Systems can be used to track book stock, sales, and customer information. This system can also be used to create sales reports, book stock and customer data. /n
+&nbsp;&nbsp;&nbsp;&nbsp;The Bookstore Management System is an application designed to manage bookstore operations. The goal of this application is to help bookstore owners manage their inventory, sales and customers more efficiently. Bookstore Management Systems can be used to track book stock, sales, and customer information. This system can also be used to create sales reports, book stock and customer data. ("/n")
   
   Bookstore Management System has several features that make it useful for bookstore owners. One of its main features is the ability to manage inventory. This system allows bookstore owners to track the books they own, including the number of copies, author, and publisher.
   
@@ -24,7 +24,7 @@
 
 <h1>Tujuan</h1>
 <div align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;Sistem Manajemen Toko Buku adalah sebuah aplikasi yang dirancang untuk mengelola operasional toko buku. Tujuan dari aplikasi ini adalah untuk membantu pemilik toko buku dalam mengelola inventaris, penjualan, dan pelanggan mereka dengan lebih efisien. Sistem Manajemen Toko Buku dapat digunakan untuk melacak stok buku, penjualan, dan informasi pelanggan. Sistem ini juga dapat digunakan untuk membuat laporan penjualan, stok buku, dan data pelanggan. /n
+&nbsp;&nbsp;&nbsp;&nbsp;Sistem Manajemen Toko Buku adalah sebuah aplikasi yang dirancang untuk mengelola operasional toko buku. Tujuan dari aplikasi ini adalah untuk membantu pemilik toko buku dalam mengelola inventaris, penjualan, dan pelanggan mereka dengan lebih efisien. Sistem Manajemen Toko Buku dapat digunakan untuk melacak stok buku, penjualan, dan informasi pelanggan. Sistem ini juga dapat digunakan untuk membuat laporan penjualan, stok buku, dan data pelanggan. ("/n")
   
   Sistem Manajemen Toko Buku memiliki beberapa fitur yang membuatnya berguna bagi pemilik toko buku. Salah satu fitur utamanya adalah kemampuan untuk mengelola inventaris. Sistem ini memungkinkan pemilik toko buku untuk melacak buku-buku yang mereka miliki, termasuk jumlah eksemplar, penulis, dan penerbit.
   
