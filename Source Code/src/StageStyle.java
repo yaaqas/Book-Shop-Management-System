@@ -1,0 +1,5 @@
+package bookshopmanagementsystem;
+
+class StageStyle {
+    
+}
