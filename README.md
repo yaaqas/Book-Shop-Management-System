@@ -10,9 +10,13 @@
 <h1>Destination</h1>
 <div align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;The Bookstore Management System is an application designed to manage bookstore operations. The goal of this application is to help bookstore owners manage their inventory, sales and customers more efficiently. Bookstore Management Systems can be used to track book stock, sales, and customer information. This system can also be used to create sales reports, book stock and customer data.
+  
 &nbsp;&nbsp;&nbsp;&nbsp;Bookstore Management System has several features that make it useful for bookstore owners. One of its main features is the ability to manage inventory. This system allows bookstore owners to track the books they own, including the number of copies, author, and publisher.
+
 &nbsp;&nbsp;&nbsp;&nbsp;Another important feature of the Bookstore Management System is the ability to manage sales. This system allows bookstore owners to track sales, including sales dates, customer names, and books purchased. This feature helps bookstore owners to know which books are selling well and which are not.
+
 &nbsp;&nbsp;&nbsp;&nbsp;Lastly, the Bookstore Management System can be used to manage customer information. This system allows bookstore owners to track customer information, including their names, addresses, and contact information. This feature helps bookstore owners to know who their customers are and how to contact them.
+
 &nbsp;&nbsp;&nbsp;&nbsp;In conclusion, a Bookstore Management System is an application designed to help bookstore owners manage their inventory, sales and customers more efficiently. This system has several features that make it useful for bookstore owners, including the ability to manage inventory, sales, and customer information. By using a Bookstore Management System, bookstore owners can save time and improve their business operations.
 </div>
 
